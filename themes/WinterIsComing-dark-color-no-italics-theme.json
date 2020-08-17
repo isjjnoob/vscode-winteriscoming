@@ -40,7 +40,6 @@
         "markup.quote.markdown"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
@@ -60,7 +59,6 @@
         "punctuation.definition.italic.markdown"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#C792EA"
       }
     },
@@ -70,7 +68,6 @@
         "markup.fenced_code.block.markdown"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -95,7 +92,6 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#999999"
       }
     },
@@ -170,7 +166,6 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#a4ceee"
       }
     },
@@ -178,8 +173,7 @@
       "name": "JavaScript Other Variable",
       "scope": "variable.other.object.js",
       "settings": {
-        "foreground": "#d6deeb",
-        "fontStyle": "italic"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -235,8 +229,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#f7ecb5",
-        "fontStyle": "italic"
+        "foreground": "#f7ecb5"
       }
     },
     {
@@ -293,8 +286,7 @@
         "variable.language.this"
       ],
       "settings": {
-        "foreground": "#00bff9",
-        "fontStyle": "italic"
+        "foreground": "#00bff9"
       }
     },
     {
@@ -303,8 +295,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#00bff9",
-        "fontStyle": "italic"
+        "foreground": "#00bff9"
       }
     },
     {
@@ -317,8 +308,7 @@
         "storage.type.property.ts"
       ],
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": "italic"
+        "foreground": "#c792ea"
       }
     },
     {
@@ -370,7 +360,6 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#87aff4"
       }
     },
@@ -401,7 +390,6 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -411,7 +399,6 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -568,8 +555,7 @@
       "name": "Quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#78bd65",
-        "fontStyle": "italic"
+        "foreground": "#78bd65"
       }
     },
     {

@@ -1,5 +1,49 @@
 # Winter is Coming theme Changelog
 
+<a name="1.4.3"></a>
+
+## 1.4.3 (2020-05-09)
+
+- Updated images in the README
+
+<a name="1.4.1"></a>
+
+## 1.4.1 (2020-03-15)
+
+- Light theme changes
+  - Updated the light theme to sync better with the dark and dark blue theme changes.
+  - Added light theme with "no italics"
+  - Changed `"gitDecoration.modifiedResourceForeground": "#1857a4"` as git changes were not detectable before. Fixes [#37](https://github.com/johnpapa/vscode-winteriscoming/issues/37)
+
+<a name="1.3.1"></a>
+
+## 1.3.1 (2020-03-13)
+
+- Changed `"list.focusBackground": "#03648a"` as the contrast had changed due to VS Code changes. This applies to all 4 dark themes.
+
+<a name="1.3.0"></a>
+
+## 1.3.0 (2019-07-29)
+
+- Add new version of the dark black theme with "no italics"
+
+<a name="1.2.0"></a>
+
+## 1.2.0 (2019-07-11)
+
+- Modified the highlight colors for the dark themes
+
+```json
+    "editor.hoverHighlightBackground": "#0c4994",
+    "editor.lineHighlightBackground": "#0c499477",
+    "editor.selectionBackground": "#103362",
+    "editor.selectionHighlightBackground": "#103362",
+    "editor.findMatchHighlightBackground": "#103362",
+    "editor.rangeHighlightBackground": "#103362",
+    "editor.wordHighlightBackground": "#103362",
+    "editor.wordHighlightStrongBackground": "#103362",
+```
+
 <a name="1.1.1"></a>
 
 ## 1.1.1 (2019-05-30)
